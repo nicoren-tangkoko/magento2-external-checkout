@@ -2,7 +2,7 @@
   "name": "vuestorefront/magento2-vue-cart-sync",
   "description": "Synchronize Magento cart between Vue Storefront",
   "require": {
-    "php": "~7.1|~7.2|~7.3|~7.4|8.1",
+    "php": "~7.1|~7.2|~7.3|~7.4|~8.1",
     "magento/magento2-base": "~2.2|~2.3|~2.4"
   },
   "type": "magento2-module",
